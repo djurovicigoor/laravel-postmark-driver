@@ -3,8 +3,8 @@
         "type": "composer",
         "url": "https://packagist.org"
     }],
-    "name": "wildbit/swiftmailer-postmark",
-    "description": "A Swiftmailer Transport for Postmark.",
+    "name": "djurovicigoor/laravel-postmark-driver",
+    "description": "A Swiftmailer Transport for Postmark. Forked from Wildbit official repo.",
     "require": {
         "swiftmailer/swiftmailer": "^6.0.0",
         "guzzlehttp/guzzle": "^6.0|^7.0"
@@ -31,6 +31,6 @@
     },
     "authors": [{
         "name": "Postmark",
-        "email": "support@postmarkapp.com"
+        "email": "djurovic.igoor@gmail.com"
     }]
 }
