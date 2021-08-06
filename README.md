@@ -1,1 +1,1 @@
- [Forked from](https://github.com/wildbit/swiftmailer-postmark) 
+ [Forked from wildbit/swiftmailer-postmark](https://github.com/wildbit/swiftmailer-postmark) 
